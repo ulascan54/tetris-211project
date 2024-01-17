@@ -4,11 +4,11 @@
 
 ## About
 
-**Project Creation Date:** 2023-12
-**Author:** Ulaş Can Demirbağ
-**Student ID:** 20200702119
-**Email:** [ulascan.demirbag@std.yeditepe.edu.tr](mailto:ulascan.demirbag@std.yeditepe.edu.tr)
-**GitHub:** [ulascan54](https://github.com/ulascan54)
+-   **Project Creation Date:** 2023-12
+-   **Author:** Ulaş Can Demirbağ
+-   **Student ID:** -------
+-   **Email:** [ulascan.demirbag@std.yeditepe.edu.tr](mailto:ulascan.demirbag@std.yeditepe.edu.tr)
+-   **GitHub:** [ulascan54](https://github.com/ulascan54)
 
 This README file provides information on how to compile and run the Tetris game, along with attributions and resources used in the project.
 

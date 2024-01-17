@@ -1,0 +1,2 @@
+/home/uls/Desktop/ulascanDemirbag20200702119 2/lib/linux/CMakeFiles/edit_cache.dir
+/home/uls/Desktop/ulascanDemirbag20200702119 2/lib/linux/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+
+.vscode
+.DS_Store
+
+*.pdf
+
+lib/examples
+lib/pkgconfig
+
+bin/app-m
+bin/app-w.exe
+bin/app-l
+
